@@ -12,7 +12,7 @@ Bitvis and the UVVM team will not verify or control the quality of submitted IPs
 * VHDL only
 * The standard UVVM directory structure shall be followed when applicable
 * The IP shall be documented
-* A completed submission form shall be uploaded with the IP (see submission_form.csv in the repository)
+* A completed submission form shall be uploaded with the IP (see submission_form.xls in the repository)
 * The code shall compile with a version of UVVM specified in the submission form. This implies that it shall be possible to use the IP in the same testbench as any other of the UVVM components. 
 
 
