@@ -1,3 +1,5 @@
+# ***  UNDER CONSTRUCTION - TO BE RELEASED WEEK 18  ***
+
 # UVVM Contributions Repository
 
 This repository was created to facilitate user contributions of user IPs, e.g. BFMs or complete Verification IPs (VIPs) with BFM and VVC.
