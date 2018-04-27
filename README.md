@@ -25,7 +25,7 @@ Our hope is that this repository will bring the community together in order to s
 
 # UVVM 3rd party VIP (Verification IP) list
 
-* <VIP name>, <version>, by <Company|Author>, Open Source | Commercial, Compatible with UVVM v: <version number(s)>
+* <<VIP name>>, <<version>>, by <Company|Author>, Open Source | Commercial, Compatible with UVVM v: <version number(s)>
   <Description>
 
 
