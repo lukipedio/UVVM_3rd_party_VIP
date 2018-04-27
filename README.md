@@ -10,7 +10,7 @@ This repository is provided to give an overview of all available UVVM compatible
 This overview will include free, open source VIP, but also commercial VIP. The intention here to get a full overview. The users can make their choice whether they want commercial or Open source VIP
 
 ## Submitting VIPs 
-To submit your VIP to this repository, please send an email with a link to the VIP to the UVVM team (support@bitvis.no).
+To submit your VIP to this repository, please send an email with a link to the VIP to the UVVM team (support@bitvis.no) - providing at least: Link, VIP name, version, Company/Author, Open Source or Commercial, UVVM compatibility: version number(s), and a brief Description
 We will then link to your VIP in the list below. If you link to a Git Repository, you can choose whether to link to a specific branch, or to the master branch of your repository.
 Bitvis and the UVVM team will not verify or control the quality of submitted VIP as we are not experts on every single interface or protocol ;-)   
 It will be up to the community to give feedback on the various VIP.
@@ -25,7 +25,7 @@ Our hope is that this repository will bring the community together in order to s
 
 # UVVM 3rd party VIP (Verification IP) list
 
-* <<VIP name>>, <<version>>, by <Company|Author>, Open Source | Commercial, Compatible with UVVM v: <version number(s)>
+* VIP name, version, by Company|Author, Open Source | Commercial, Compatible with UVVM: <version number(s)>
   <Description>
 
 
