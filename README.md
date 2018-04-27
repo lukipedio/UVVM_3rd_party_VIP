@@ -1,14 +1,21 @@
 # ***  UNDER CONSTRUCTION - TO BE RELEASED WEEK 18  ***
 
-# UVVM Contributions Repository
+# UVVM 3rd party VIP (Verification IP) Repository
 
-This repository was created to facilitate user contributions of user IPs, e.g. BFMs or complete Verification IPs (VIPs) with BFM and VVC.
+## Type of verification IP
+This repository is provided to give an overview of all available UVVM compatible Verification IP (VIP).
+- BFM: BFM packages only (with no VVC)
+- VVC: Complete VVCs, with built-in BFMs for interface/protocol oriented interfaces
+- Any other verification IP that could be useful.
 
-# Contributor info
-## Uploading IPs 
-To submit your IP to the UVVM Contributions repository, please send an email with a link to the git-repository where the IP is uploaded to the UVVM team (support@bitvis.no).
-We will then link to your IP as a submodule in the UVVM Contributions Git Repository. You can specify if you want us to link to a specific branch, or to the master branch of your repository.
-Bitvis and the UVVM team will not verify or control the quality of submitted IPs, but some rules must be followed in order for the IP to be accepted.
+## Opens source and commercial
+This overview will include free, open source VIP, but also commercial VIP. The intention here to get a full overview. The users can make their choice whether they want commercial or Open source VIP
+
+## Submitting VIPs 
+To submit your VIP to this repository, please send an email with a link to the VIP to the UVVM team (support@bitvis.no).
+We will then link to your VIP in the list below. If you link to a Git Repository, you can choose whether to link to a specific branch, or to the master branch of your repository.
+Bitvis and the UVVM team will not verify or control the quality of submitted VIP as we are not experts on every single interface or protocol ;-)   
+It will be up to the community to give feedback on the various VIP.
 
 ## Rules
 * VHDL only
