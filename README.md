@@ -1,5 +1,3 @@
-# ***  UNDER CONSTRUCTION - TO BE RELEASED WEEK 18  ***
-
 # UVVM 3rd party VIP (Verification IP) Repository
 
 ## Type of verification IP
@@ -27,6 +25,8 @@ Our hope is that this repository will bring the community together in order to s
 
 # UVVM 3rd party VIP (Verification IP) list
 
-* <VIP name>, by <Company/Author>, 
+* <VIP name>, <version>, by <Company|Author>, Open Source | Commercial, Compatible with UVVM v: <version number(s)>
+  <Description>
 
 
+Released May 1, 2018. Hoping to get inputs soon...
