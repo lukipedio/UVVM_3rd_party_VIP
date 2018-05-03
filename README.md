@@ -1,12 +1,12 @@
 # UVVM 3rd party VIP (Verification IP) Repository
 
-## Type of verification IP
+## Verification IP categories
 This repository is provided to give an overview of all available UVVM compatible Verification IP (VIP).
 - BFM: BFM packages only (with no VVC)
 - VVC: Complete VVCs, with built-in BFMs for interface/protocol oriented interfaces
 - Any other verification IP that could be useful.
 
-## Opens source and commercial
+## Open source and commercial
 This overview will include free, open source VIP, but also commercial VIP. The intention here to get a full overview. The users can make their choice whether they want commercial or Open source VIP
 
 ## Submitting VIPs 
@@ -29,4 +29,4 @@ Our hope is that this repository will bring the community together in order to s
   Description
 
 
-Released May 1, 2018. Hoping to get inputs soon...
+Released May 3, 2018. Hoping to get inputs soon...
